@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">Born and brought up in Gujarat, Developing in Montreal. <br><br>- 🔭 Seasoned software engineer specializing in Android, web, and data science. Proficient in architecting robust solutions. Published research paper on advanced data analysis. Exceptional problem-solving skills. Committed to professional growth and technological advancement.<br>- 📚 Student of Master in Applied Computer Science at Concordia University.<br>- 🎮 In my free time I ...</p>
+<p align="left">Born and brought up in Gujarat, Developing in Montreal. <br><br>- 🔭 Seasoned software engineer specializing in Android, web, and data science. Proficient in architecting robust solutions. Published research paper on advanced data analysis. Exceptional problem-solving skills. Committed to professional growth and technological advancement.<br>- 📚 Student of Master in Applied Computer Science at Concordia University.<br>- 🎮 In my free time !</p>
 
 ###
 
